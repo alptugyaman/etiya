@@ -1,0 +1,99 @@
+{
+    "items": [
+        {
+            "added_at": "2022-11-04T08:05:35Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/"
+                },
+                "id": "",
+                "type": "user",
+                "uri": "spotify:user:"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71"
+                            },
+                            "id": "7bchfd9ZihGesFniE7tM71",
+                            "name": "Velet",
+                            "type": "artist",
+                            "uri": "spotify:artist:7bchfd9ZihGesFniE7tM71"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/4d3ZPCDmC82dHaVwnlS4mx"
+                    },
+                    "id": "4d3ZPCDmC82dHaVwnlS4mx",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273c2e5c58be64d36cd41ecd392",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02c2e5c58be64d36cd41ecd392",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851c2e5c58be64d36cd41ecd392",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Son Perde",
+                    "release_date": "2022-11-04",
+                    "release_date_precision": "day",
+                    "total_tracks": 4,
+                    "type": "album",
+                    "uri": "spotify:album:4d3ZPCDmC82dHaVwnlS4mx"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71"
+                        },
+                        "id": "7bchfd9ZihGesFniE7tM71",
+                        "name": "Velet",
+                        "type": "artist",
+                        "uri": "spotify:artist:7bchfd9ZihGesFniE7tM71"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 140000,
+                "episode": false,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "QMDA62291437"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2Ti1LrtGjQYU2eBA9R7JGx"
+                },
+                "id": "2Ti1LrtGjQYU2eBA9R7JGx",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Uçurumlar",
+                "popularity": 54,
+                "preview_url": "https://p.scdn.co/mp3-preview/7b5ee496d629ab6322512a4eb134338703866205?cid=f6a40776580943a7bc5173125a1e8832",
+                "track": true,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:2Ti1LrtGjQYU2eBA9R7JGx"
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        }
+    ],
+    "limit": 1,
+    "next": true,
+    "offset": 0,
+    "previous": null,
+    "total": 101
+}
